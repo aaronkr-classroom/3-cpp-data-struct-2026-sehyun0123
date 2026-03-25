@@ -1,4 +1,4 @@
-#include<iostream>
+ï»¿#include<iostream>
 #include<string>
 #include<ios>
 #include<iomanip> 
@@ -10,7 +10,7 @@ using namespace std;
 int main()
 {
 
-	cout << "¹®ÀåÀ» ÀÔ·Â: (Á¾·áÇÏ·Á¸é Ctrl+z)" << endl;
+	cout << "ë¬¸ìž¥ì„ ìž…ë ¥: (ì¢…ë£Œí•˜ë ¤ë©´ Ctrl+z)" << endl;
 
 	vector<string> sen;
 	string word;
